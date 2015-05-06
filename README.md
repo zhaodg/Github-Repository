@@ -15,6 +15,13 @@
 6. <https://github.com/fuxiaohei/GoBlog> personal site engine with goink framework
 7. 
 
+##Crawler
+1. <https://github.com/binux/pyspider> A Powerful Spider(Web Crawler) System in Python. 
+<http://docs.pyspider.org/>
+2. <https://github.com/scrapy/scrapy> Scrapy, a fast high-level web crawling & scraping framework for Python. 
+<http://scrapy.org>
+3. <https://github.com/scrapinghub/portia> Visual scraping for Scrapy
+
 ##Hexo
 1. <https://github.com/hexojs/hexo> A fast, simple & powerful blog framework, powered by Node.js. 
 <http://hexo.io>
