@@ -3,7 +3,17 @@
 ##iOS
 1. <https://pspdfkit.com> The Leading Mobile PDF Framework
 2. <https://github.com/MortimerGoro/MGSwipeTableCell> An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
-3. 
+3. <https://github.com/warrenm/AHEasing> A library of easing functions for C, C++ and Objective-C
+###Text
+1. <https://github.com/zipme/RQShineLabell> Secret app like text animation — Edit
+
+###System
+1. <https://github.com/Shmoopi/iOS-System-Services> iOS System Services is a class to gather all available information about a device. 
+<http://www.shmoopi.net/>
+
+##Other
+1. <https://github.com/ai/easings.net> Easing Functions Cheat Sheet 
+<http://easings.net>
 
 ##Go
 1. <https://github.com/golang/go> The Go programming language <https://golang.org>
