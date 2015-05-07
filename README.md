@@ -1,11 +1,15 @@
 # Github-Repository
-
-##iOS
+#iOS
+##Objective-c
 1. <https://pspdfkit.com> The Leading Mobile PDF Framework
 2. <https://github.com/MortimerGoro/MGSwipeTableCell> An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 3. <https://github.com/warrenm/AHEasing> A library of easing functions for C, C++ and Objective-C
+4. <https://github.com/jverkoey/nimbus> The iOS framework that grows only as fast as its documentation 
+<http://nimbuskit.info> <http://nimbuskit.info/catalog/> [*****]
+5. <https://github.com/kewlbear/FFmpeg-iOS-build-script> Shell script to build FFmpeg for iOS [*****]
 ###Text
 1. <https://github.com/zipme/RQShineLabell> Secret app like text animation — Edit
+
 
 ###System
 1. <https://github.com/Shmoopi/iOS-System-Services> iOS System Services is a class to gather all available information about a device. 
@@ -15,14 +19,17 @@
 1. <https://github.com/ai/easings.net> Easing Functions Cheat Sheet 
 <http://easings.net>
 
+##Swift
+1. <https://github.com/practicalswift/swift-compiler-crashes> A collection of test cases crashing the Swift compiler.
+
 ##Go
-1. <https://github.com/golang/go> The Go programming language <https://golang.org>
+1. <https://github.com/golang/go> The Go programming language <https://golang.org>  [*****]
 2. <https://github.com/gogits/gogs> Gogs(Go Git Service) is a painless self-hosted Git Service. <http://gogs.io>
 3. <https://github.com/astaxie/build-web-application-with-golang> A golang ebook intro how to build a web with golang
 4. <https://github.com/avelino/awesome-go> A curated list of awesome Go frameworks, libraries and software <http://awesome-go.com/>
 5. <https://github.com/spf13/hugo> A Fast and Flexible Static Site Generator built with love by spf13 in GoLang 
 <http://gohugo.io>
-6. <https://github.com/fuxiaohei/GoBlog> personal site engine with goink framework
+6. <https://github.com/fuxiaohei/GoBlog> personal site engine with goink framework  [*****]
 7. 
 
 ##Crawler
