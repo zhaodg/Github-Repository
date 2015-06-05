@@ -7,8 +7,16 @@
 4. <https://github.com/jverkoey/nimbus> The iOS framework that grows only as fast as its documentation 
 <http://nimbuskit.info> <http://nimbuskit.info/catalog/> [*****]
 5. <https://github.com/kewlbear/FFmpeg-iOS-build-script> Shell script to build FFmpeg for iOS [*****]
-###Text
+##Text
 1. <https://github.com/zipme/RQShineLabell> Secret app like text animation — Edit
+##image
+1. <https://github.com/BradLarson/GPUImage> An open source iOS framework for GPU-based image and video processing
+2. <https://github.com/path/FastImageCache> iOS library for quickly displaying images while scrolling
+3. <https://github.com/rs/SDWebImage> Asynchronous image downloader with cache support with an UIImageView category
+4. <https://github.com/OpenFibers/OTLargeImageReader> Generate a thumbnail for a really large image, avoid of a terrible memory peak.
+5. <https://github.com/jaredsinclair/JTSImageViewController> An interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera.
+6. <https://github.com/onevcat/Kingfisher> A lightweight and pure Swift implemented library for downloading and caching image from the web.
+7. <https://github.com/Haneke/HanekeSwift> A lightweight generic cache for iOS written in Swift with extra love for images.
 
 
 ###System
