@@ -18,6 +18,10 @@
 6. <https://github.com/onevcat/Kingfisher> A lightweight and pure Swift implemented library for downloading and caching image from the web.
 7. <https://github.com/Haneke/HanekeSwift> A lightweight generic cache for iOS written in Swift with extra love for images.
 
+##imagePicker
+1. <https://github.com/JGINGIT/InstagramAssetsPicker> A assets picker like Instagram with photo and video crop
+2. <https://github.com/wenzhaot/InstagramPhotoPicker> Present Image Picker like Instagram
+3. <https://github.com/uzysjung/UzysAssetsPickerController> Alternative UIImagePickerController , You can take a picture with camera and pick multiple photos and videos
 
 ###System
 1. <https://github.com/Shmoopi/iOS-System-Services> iOS System Services is a class to gather all available information about a device. 
