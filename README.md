@@ -23,6 +23,7 @@
 2. <https://github.com/wenzhaot/InstagramPhotoPicker> Present Image Picker like Instagram
 3. <https://github.com/uzysjung/UzysAssetsPickerController> Alternative UIImagePickerController , You can take a picture with camera and pick multiple photos and videos
 
+
 ###System
 1. <https://github.com/Shmoopi/iOS-System-Services> iOS System Services is a class to gather all available information about a device. 
 <http://www.shmoopi.net/>
@@ -30,6 +31,7 @@
 ##Other
 1. <https://github.com/ai/easings.net> Easing Functions Cheat Sheet 
 <http://easings.net>
+2. <https://github.com/andrei200287/SAVideoRangeSlider> iOS Video trim control 
 
 ##Swift
 1. <https://github.com/practicalswift/swift-compiler-crashes> A collection of test cases crashing the Swift compiler.
