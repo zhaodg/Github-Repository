@@ -7,6 +7,9 @@
 4. <https://github.com/jverkoey/nimbus> The iOS framework that grows only as fast as its documentation 
 <http://nimbuskit.info> <http://nimbuskit.info/catalog/> [*****]
 5. <https://github.com/kewlbear/FFmpeg-iOS-build-script> Shell script to build FFmpeg for iOS [*****]
+6. <https://github.com/toddreed/Touchpose> Touchposé is a set of classes for iOS that renders screen touches when a device is connected to a mirrored display.
+7. <https://github.com/zedoul/ZDStickerView> ZDStickerView is the Objective-C module for iOS and offer complete configurability, including movement, resizing, rotation and more, with one finger. 
+https://www.cocoacontrols.com/controls/zdstickerview
 ##Text
 1. <https://github.com/zipme/RQShineLabell> Secret app like text animation — Edit
 ##image
