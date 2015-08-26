@@ -62,5 +62,7 @@ https://www.cocoacontrols.com/controls/zdstickerview
 1. <https://github.com/hexojs/hexo> A fast, simple & powerful blog framework, powered by Node.js. 
 <http://hexo.io>
 
+#Error
+1. [Look up Apple API errors fast!](http://www.osstatus.com/search/results?platform=all&framework=all&search=-12710)
 
 [.](https://www.ejabberd.im)
