@@ -11,6 +11,7 @@
 7. <https://github.com/zedoul/ZDStickerView> ZDStickerView is the Objective-C module for iOS and offer complete configurability, including movement, resizing, rotation and more, with one finger. 
 https://www.cocoacontrols.com/controls/zdstickerview
 8. <https://github.com/eroth/ERJustifiedFlowLayout> A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
+9. <https://github.com/forkingdog/UITableView-FDTemplateLayoutCell> Template auto layout cell for automatically UITableViewCell height calculating
 
 ##Text
 1. <https://github.com/zipme/RQShineLabell> Secret app like text animation — Edit
