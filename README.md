@@ -1,5 +1,8 @@
 # Github-Repository
 #iOS
+##Swift
+1. <https://github.com/ipader/SwiftGuide> 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
+
 ##Objective-c
 1. <https://pspdfkit.com> The Leading Mobile PDF Framework
 2. <https://github.com/MortimerGoro/MGSwipeTableCell> An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
