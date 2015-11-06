@@ -64,8 +64,7 @@ https://www.cocoacontrols.com/controls/zdstickerview
 <http://docs.pyspider.org/>
 2. <https://github.com/scrapy/scrapy> Scrapy, a fast high-level web crawling & scraping framework for Python. 
 <http://scrapy.org>
-3. <https://github.com/scrapinghub/portia> Visual scraping for Scrapy
-
+3. <https://github.com/marchtea/scrapy_doc_chs> http://scrapy-chs.readthedocs.org/zh_CN/latest/
 ##Hexo
 1. <https://github.com/hexojs/hexo> A fast, simple & powerful blog framework, powered by Node.js. 
 <http://hexo.io>
